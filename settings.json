@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "PraxSMP.aternos.me",
+    "ip": "praxsmp.aternos.me",
     "port": 41526,
     "version": "",
     "try-creative": false
