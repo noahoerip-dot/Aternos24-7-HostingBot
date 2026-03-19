@@ -8,7 +8,7 @@
   "server": {
     "ip": "praxolsmp.falix.gg",
     "port": 28132,
-    "version": "1.21.1",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
