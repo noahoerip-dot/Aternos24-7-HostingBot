@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AtnoSMP.aternos.me",
-    "port": 54816,
+    "ip": "praxolsmp.falix.gg",
+    "port": 28132,
     "version": "1.21.1",
     "try-creative": false
   },
